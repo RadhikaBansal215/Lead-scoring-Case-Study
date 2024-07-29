@@ -9,4 +9,11 @@ Business Objective
 
 Lead X wants us to build a model to give every lead a lead score between 0 -100 . So that they can identify the Hot leads and increase their conversion rate as well. The CEO want to achieve a lead conversion rate of 80%. They want the model to be able to handle future constraints as well like Peak time actions required, how to utilize full man power and after achieving target what should be the approaches.
 
+## Project Description
+This project aims to build a logistic regression model to predict the probability of lead conversion for X Education. The model assigns a lead score to each lead, indicating the likelihood of conversion, helping the company focus on the most promising leads.
 
+##Files
+- LeadScoringAssignment.ipynb(python notebook)
+- Assignment Subjective Questions_answer.pdf
+- Summary Report.pdf
+- Lead Scoring Case Study Presentation.pdf
